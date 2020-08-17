@@ -1,5 +1,4 @@
 # Table of contents
 
-* [欢迎界面](README.md)
-* [Untitled](untitled.md)
+* [皇家部落日记本](README.md)
 
